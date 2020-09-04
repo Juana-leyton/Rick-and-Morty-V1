@@ -1,0 +1,141 @@
+/**{
+    margin: 0;
+    padding: 0;
+}
+
+.main-menu {
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    background-color: black;
+    font-family: 'Londrina Solid', cursive;
+}
+.opt-menu {
+    justify-content: flex-end;
+    width: 90%;
+}
+
+.opt-menu li {
+    list-style: none;
+    width: 15%;
+    color: whitesmoke;
+}
+
+.opt-menu a:hover {
+    background-color: skyblue;
+    border: 10px skyblue solid;
+    border-radius: 5px;}
+    }*/
+
+h1 {
+        text-align: center;
+        font-family: 'Grandstander', cursive;
+        font-size: 3rem;
+        padding-top: 3%;
+    }
+.sec-flex img{
+        border-radius: 70%;
+        width: 200px;
+        height: 200px;}
+    
+    
+
+/*.about {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-top: 5%;
+    }*/
+/*p {
+        display: block;
+        margin-block-start: 5em;
+        margin-block-end: 8em;
+        margin-right: 10%;
+        font-family: 'Neucha', cursive;
+        font-size: 20px;
+    }*/
+
+/*.know {
+    display: flex;
+    flex-wrap: wrap;
+    
+}*/
+
+/*.sobre{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}*/
+
+
+
+/*.container{
+    margin: 5% 15% 3% 25%;
+}
+
+.container h2{
+    text-align: center;
+    font-family: 'Grandstander', cursive;
+    font-size: 3rem;
+    margin-block-start: 1em;
+    margin-block-end: 2em;
+
+}*/
+
+/*.opt-menu a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.sec-flex{
+    display: flex;
+    align-items: center;
+}
+
+.flex-hild{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 5%;
+    width: 40%;
+    height:20% ;
+    margin-left: 5%;
+}
+.flex-hild img{
+    width: 30%;
+   
+    
+}
+.flex-hild p{
+    width: 60%;
+   
+}*/
+
+.sec-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.language-sec{
+    flex-wrap: wrap;
+}
+
+.img-language {
+    width: 25%;
+    text-align: center;
+    margin-bottom: 2% ;
+}
+.img-language img{
+    width: 100%;
+    height: 80%;
+}
+
+.img-language img:hover {
+    border: 5px blueviolet solid;
+    border-radius: 30px;
+    box-shadow: 3px 5px 5px rgb(78, 70, 85);
+}
+
+.info {
+    margin-left: 20%;
+}
